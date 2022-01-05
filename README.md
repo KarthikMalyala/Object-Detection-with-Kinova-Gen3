@@ -6,3 +6,5 @@ PICK & PLACE
 2) roslaunch kortex_driver kortex_driver.launch
 3) roslaunch kinova_vision kinova_vision.launch device:=10.0.0.30
 4) rosrun kinova_vision kinovaTarget.py
+
+Video Demonstration: https://youtu.be/9KQqGKGLyec
